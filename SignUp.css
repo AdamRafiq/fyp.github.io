@@ -1,0 +1,49 @@
+.boxxes {
+	width: 500px;
+	height: 580px;
+	border: 1px solid black;
+	margin: auto;
+	margin-top: 50px;
+	background-color: #FFFFCC;
+}
+
+h2 {
+	text-align: center;
+}
+
+body {
+	background-color: #CCB78D;
+
+}
+
+.text {
+	margin-left: 9px;
+}
+
+input[type=text], input[type=email],input[type=password] {
+	width: 95%;
+	padding: 10px 10px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+}
+
+button {
+	background-color: gray;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 95%;
+	font-size: 14px;
+}
+
+.text1{
+	text-align: right;
+	margin-right: 27px;
+}
+a{
+	color: red;
+}

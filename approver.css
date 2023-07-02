@@ -1,0 +1,28 @@
+body{
+		background-color: #CCB78D;
+
+}
+h2 {
+	color: black;
+	margin-left: 335px;
+
+}
+.buttonV{
+	background-color: #4CAF50;
+}
+.buttonG{
+	background-color: red;
+}
+.button{
+	font-size: 16px;
+	 padding: 5px 20px;
+
+}
+.button1{
+	background-color: white;
+	color: black;
+	bottom: 2px solid #e7e7e7;
+}
+.button1:hover{
+	background-color: #e7e7e7;
+}

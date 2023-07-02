@@ -1,0 +1,47 @@
+.boxxes{
+	width: 650px;
+	height: 970px;
+	border: 1px solid black;
+	margin:auto;
+	margin-top: 50px;
+	background-color: #FFFFCC;
+}
+
+h2{
+	text-align: center;
+}
+
+body {
+	background-image: url("kolej.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}	
+
+
+.text{
+	margin-left: 9px;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 2px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button5 {
+  background-color: gray;
+  color: white;
+  border: 2px solid gray;
+}
+.button5:hover {
+  background-color: #555555;
+  color: white;
+}
